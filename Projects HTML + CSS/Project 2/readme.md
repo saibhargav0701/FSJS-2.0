@@ -7,4 +7,4 @@ Click Here - [index.html](https://github.com/saibhargav0701/FSJS-2.0/blob/main/P
 
 CSS file :
 
-Click - Here - [style.css](https://github.com/saibhargav0701/FSJS-2.0/blob/main/Project%202/style.css)
+Click Here - [style.css](https://github.com/saibhargav0701/FSJS-2.0/blob/main/Project%202/style.css)
