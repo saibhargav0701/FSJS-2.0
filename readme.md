@@ -1,10 +1,19 @@
 # Fullstack Javascript Bootcamp 2.0.
-## Project 2 on HTML & CSS
+## Projects on HTML & CSS
 
-HTML file :
+### Project 1
 
-Click Here - [index.html](https://github.com/saibhargav0701/FSJS-2.0/blob/main/Project%202/index.html)
+Click Here - [Project 1](https://github.com/saibhargav0701/FSJS-2.0/tree/main/Projects%20HTML%20%2B%20CSS/Project%201)
 
-CSS file :
 
-Click - Here - [style.css](https://github.com/saibhargav0701/FSJS-2.0/blob/main/Project%202/style.css)
+### Project 2 :
+
+Click - Here - [Project 2](https://github.com/saibhargav0701/FSJS-2.0/tree/main/Projects%20HTML%20%2B%20CSS/Project%202)
+
+### Project 3 :
+
+Click - Here - [Project 3](https://github.com/saibhargav0701/FSJS-2.0/tree/main/Projects%20HTML%20%2B%20CSS/Project3)
+
+### Project 4 :
+
+Click - Here - [Project 4](https://github.com/saibhargav0701/FSJS-2.0/tree/main/Projects%20HTML%20%2B%20CSS/Project4)
