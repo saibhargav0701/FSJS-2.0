@@ -8,3 +8,9 @@ Click Here - [index.html](https://github.com/saibhargav0701/FSJS-2.0/blob/main/P
 CSS file :
 
 Click Here - [style.css](https://github.com/saibhargav0701/FSJS-2.0/blob/main/Project%202/style.css)
+
+Output :
+
+Click Here - [Output](Output :
+
+Click Here - [Output](https://github.com/saibhargav0701/FSJS-2.0/blob/main/Projects%20HTML%20%2B%20CSS/Project%201/assets/output.png))
