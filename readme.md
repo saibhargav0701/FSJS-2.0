@@ -26,6 +26,6 @@ Click - Here - [Project 5](https://github.com/saibhargav0701/FSJS-2.0/tree/main/
 
 Click - Here - [Project 6](https://github.com/saibhargav0701/FSJS-2.0/tree/main/Projects%20HTML%20%2B%20CSS/Project%206)
 
-### Project 7:
+### Project 7 - Visual-Studio
 
 Click - Here - [Project 7](https://github.com/saibhargav0701/FSJS-2.0/tree/main/Projects%20HTML%20%2B%20CSS/VS%20Code%20Clone%20(Tailwind))
