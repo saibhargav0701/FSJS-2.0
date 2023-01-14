@@ -12,3 +12,9 @@ CSS file :
 
 Click Here - [style.css](https://github.com/saibhargav0701/FSJS-2.0/blob/main/Projects%20HTML%20%2B%20CSS/Project%201/style.css)
 
+Output :
+Click Here - [Output]([https://github.com/saibhargav0701/FSJS-2.0/blob/main/Projects%20HTML%20%2B%20CSS/Project%201/style.css](https://github.com/saibhargav0701/FSJS-2.0/blob/main/Projects%20HTML%20%2B%20CSS/Project%201/assets/output.png))
+
+
+
+
