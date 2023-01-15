@@ -28,8 +28,8 @@ Click - Here - [Project 6](https://github.com/saibhargav0701/FSJS-2.0/tree/main/
 
 ### Visual-Studio Clone - Tailwind
 
-Click - Here - [Project 7](https://github.com/saibhargav0701/FSJS-2.0/tree/main/Projects%20HTML%20%2B%20CSS/VS%20Code%20Clone%20(Tailwind))
+Click - Here - [Project-Tailwind](https://github.com/saibhargav0701/FSJS-2.0/tree/main/Projects%20HTML%20%2B%20CSS/VS%20Code%20Clone%20(Tailwind))
 
 ### Project 7 : Credit-Card Landing Page
 
-Click - Here - [Project 6](https://github.com/saibhargav0701/FSJS-2.0/tree/main/Projects%20HTML%20%2B%20CSS/Project%207%20Credit-Card%20Landing%20Page/Credit%20Card%20Landing%20Page)
+Click - Here - [Project 7](https://github.com/saibhargav0701/FSJS-2.0/tree/main/Projects%20HTML%20%2B%20CSS/Project%207%20Credit-Card%20Landing%20Page/Credit%20Card%20Landing%20Page)
