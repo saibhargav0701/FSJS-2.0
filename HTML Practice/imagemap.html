@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Map</title>
+</head>
+<body>
+    <h1>Now Lets us Know About Image Mapping</h1>
+    <img src="./family.png" alt="family"
+    usemap="#image-map"
+    >
+    <map name="image-map">
+        <area target="" alt="" title="" onclick="mapfuncOne()" href="" coords="35,207,573,564" shape="rect">
+        <area target="" alt="" title="" onclick="mapfuncTwo()" href="" coords="116,35,1009,206" shape="rect">
+    </map>
+    <script>
+        function mapfuncOne(){
+            alert("Welcome!! You Clicked MAP1")
+        }
+        function mapfuncTwo(){
+            alert("Welcome!! You Clicked MAP2")
+        }
+    </script>
+    
+</body>
+</html>
