@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.hero{
+    width: 100%;
+    height: 100vh;
+    background: #ed786d; 
+    display: flex;
+  
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+        
+}
+
+h1{
+    font-size: 40px;
+     font-family: 'Baloo Tammudu 2', cursive;
+    
+  margin-bottom: 10px;
+    margin-top: 10px;
+   
+    
+}
+.social-links{
+    
+    
+}
+
+ .social-links a {
+    width:100px;
+    height: 80px;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    box-shadow: 0 0 20px 10px rgba(0,0,0,0.05);
+    margin: 0 30px;
+    border-radius: 50%;
+        position:relative;
+     
+   
+   
+   
+  
+}     
+.social-links a .fab  {
+    font-size: 50px;
+    line-height: 100px;
+    position: relative;
+    z-index: 10;
+     transition: 0.5s
+   
+}
+.social-links a::after{
+     content: '';
+    width: 105%;
+    height: 310%;
+    top: -30px;
+    
+    left: 0;
+    background: linear-gradient(-155deg,steelblue,yellow);
+    position: absolute;
+     transition: 0.5s
+ 
+    
+    
+    
+  
+}
+.social-links a:hover::after{
+    top: 0;
+    
+    
+     
+}
+.social-links a:hover .fab{
+    
+}
+   
+    
+
