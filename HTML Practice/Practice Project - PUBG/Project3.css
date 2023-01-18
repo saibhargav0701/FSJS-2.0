@@ -1,0 +1,294 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+   
+}
+.image{
+    height: 100%;
+    width: 100%;
+}
+.top-bar{
+    width: 85%;
+    padding: 35px 113px;
+    background:black;
+    
+    
+   
+}
+.top-bar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 1.5em;
+    position: relative;
+  
+    
+   
+}
+.top-bar ul li a{ text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+     margin: 5px;
+    }
+.top-bar ul li::after{
+    content: '';
+    height: 3.5px;
+    width: 0px;
+    background: orange;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.6s;
+    
+   
+}
+.top-bar ul li:hover::after{
+    width: 100%;
+}
+.content{
+    width: 100%;
+    position: absolute;
+  
+    text-align: center;
+}
+.title{
+    font-size: 1.5em;
+    color: darkblue
+}
+.para{
+    font-size: 1.4em;
+}
+.head2{
+    color:red;
+}
+.squad{
+    height: 450px;
+    width:30%;
+    border: 10px solid green;
+  
+}
+.squad{
+    width: 450px;
+    height: 420px;
+    transition: 0.5s; height,width;
+}
+.squad:hover{
+    height: 450px;
+    width: 500px;
+}
+.win{
+    color: darkcyan;
+}
+.apple{
+    width: 30%;
+    height: auto;
+    margin: 10px;
+        
+
+}
+.b{
+    width: 30%;
+    height: auto;
+    margin: 10px;
+        
+    
+}
+.c{
+    width: 30%;
+    height: auto;
+    margin: 10px;
+        
+    
+}
+.d{
+    width: 30%;
+    height: auto;
+    margin: 10px;
+        
+    
+}
+.e{
+    width: 30%;
+    height: auto;
+    margin: 10px;
+        
+    
+}
+.f{
+    width: 30%;
+    height: auto;
+    margin: 10px;
+        
+    
+}
+.g{
+    width: 30%;
+    height: auto;
+    margin: 10px;
+        
+    
+}
+.h{
+    width: 30%;
+    height: auto;
+    margin: 10px;
+        
+    
+}
+.apple{
+    width: 30%;
+    height: auto;
+    transition: 0.5s; height,width;
+}
+.apple:hover{
+    height: auto;
+    width: 35%;
+}
+.b{
+    width: 30%;
+    height: auto;
+    transition: 0.5s; height,width;
+}
+.b:hover{
+    height: auto;
+    width: 35%;
+}
+.c{
+    width: 30%;
+    height: auto;
+    transition: 0.5s; height,width;
+}
+.c:hover{
+    height: auto;
+    width: 35%;
+}
+.d{
+    width: 30%;
+    height: auto;
+    transition: 0.5s; height,width;
+}
+.d:hover{
+    height: auto;
+    width: 35%;
+}
+.e{
+    width: 30%;
+    height: auto;
+    transition: 0.5s; height,width;
+}
+.e:hover{
+    height: auto;
+    width: 35%;
+}
+.f{
+    width: 30%;
+    height: auto;
+    transition: 0.5s; height,width;
+}
+.f:hover{
+    height: auto;
+    width: 35%;
+}
+.g{
+    width: 30%;
+    height: auto;
+    transition: 0.5s; height,width;
+}
+.g:hover{
+    height: auto;
+    width: 35%;
+}
+.h{
+    width: 30%;
+    height: auto;
+    transition: 0.5s; height,width;
+}
+.h:hover{
+    height: auto;
+    width: 35%;
+}
+.hero{
+    width: 100%;
+    height: 100vh;
+    background:linear-gradient(#f5f18c,steelblue);
+    display: flex;
+  
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+        
+}
+
+h1{
+    font-size: 40px;
+     font-family: 'Baloo Tammudu 2', cursive;
+    
+  margin-bottom: 10px;
+    margin-top: 10px;
+   
+    
+}
+.social-links{
+    
+    
+}
+
+ .social-links a {
+    width:100px;
+    height: 80px;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    box-shadow: 0 0 20px 10px rgba(0,0,0,0.05);
+    margin: 0 30px;
+    border-radius: 50%;
+        position:relative;
+     
+   
+   
+   
+  
+}     
+.social-links a .fab  {
+    font-size: 50px;
+    line-height: 100px;
+    position: relative;
+    z-index: 10;
+     transition: 0.5s
+   
+}
+.social-links a::after{
+     content: '';
+    width: 105%;
+    height: 310%;
+    top: -30px;
+    
+    left: 0;
+    background: linear-gradient(-155deg,steelblue,yellow);
+    position: absolute;
+     transition: 0.5s
+ 
+    
+    
+    
+  
+}
+.social-links a:hover::after{
+    top: 0;
+    
+    
+     
+}
+.social-links a:hover .fab{
+    
+}
+   
+
+
+
+
+
+
+
+    
