@@ -1,0 +1,81 @@
+*{
+    font-family: 'Lobster', cursive;
+    font-family: sans-serif;
+}
+body{
+    background: #f7f3f2;
+}
+.head{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 2.5em;
+    margin-top: 80px;
+    color:#db3939;
+}
+.page{
+    background: white;
+    margin-left: 37%;
+    margin-right: 37%;
+    text-align: center;
+}
+.log{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 65px;
+    padding-right: 65px;
+    background: #bed3ed;
+    color: white;
+    border-radius: 5px;
+}
+.log:hover{
+    background: #2f83eb;
+    transition: 0.5s;
+    
+}
+.facebook{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #2d5d96;
+    
+    
+}
+.password{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #72a7e8;
+}
+.two{
+    text-align: center;
+    background: white;
+    margin-left:37%;
+    margin-right: 37%;
+    margin-top: 20px;
+    padding: 20px;
+}
+.account{
+    text-decoration: none;
+}
+.hai{
+    color: #6abdde;
+}
+.get{
+    text-align: center;
+}
+
+}
+.fab {
+    color:darkblue;
+    font-size: 0.8em
+}
+.hello{
+    color: darkblue;
+}
+.image{
+    width: 250px;
+    text-align: center;
+    align-content: center;
+    display:inline;
+    align-items: center;
+    margin-left: 42%
+}
+
