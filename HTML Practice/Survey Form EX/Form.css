@@ -1,0 +1,49 @@
+*{
+    font-family: 'Roboto Mono', monospace;
+    font-family: sans-serif;
+}
+
+
+
+body{
+     background: #82b0ad;
+}
+.head{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    border: solid white 0.5mm;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 20px;
+    background: #33332c;
+    color: white;
+
+  
+    
+    margin-top: 5vh;
+}
+.subhead{
+    text-align: center;
+    background: white;
+    margin-left: 50;
+    margin-right:50;
+    padding: 10px
+}
+.free{
+    color:#031c1a;
+    background:linear-gradient(#f0beaf,#f0eda8);
+}
+.button{
+    
+   margin-bottom: 0px;
+    font-size: 1.1em;;
+    border-radius: 30px;
+    margin-left: 20%;
+   
+   
+}
+.button:hover{
+    background: #112259;
+    color: white;
+    transition: 0.5s;
+}
